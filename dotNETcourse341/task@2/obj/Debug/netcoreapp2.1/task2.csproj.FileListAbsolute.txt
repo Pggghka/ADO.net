@@ -1,0 +1,11 @@
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/bin/Debug/netcoreapp2.1/task2.deps.json
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/bin/Debug/netcoreapp2.1/task2.runtimeconfig.json
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/bin/Debug/netcoreapp2.1/task2.runtimeconfig.dev.json
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/bin/Debug/netcoreapp2.1/task2.dll
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/bin/Debug/netcoreapp2.1/task2.pdb
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/obj/Debug/netcoreapp2.1/task2.csprojAssemblyReference.cache
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/obj/Debug/netcoreapp2.1/task2.csproj.CoreCompileInputs.cache
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/obj/Debug/netcoreapp2.1/task2.AssemblyInfoInputs.cache
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/obj/Debug/netcoreapp2.1/task2.AssemblyInfo.cs
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/obj/Debug/netcoreapp2.1/task2.dll
+/Users/a1/Yandex.Disk.localized/University/ADO.NET/task2/obj/Debug/netcoreapp2.1/task2.pdb
